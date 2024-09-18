@@ -3,7 +3,7 @@ $ git init
 $ git add CA-1.docx
 $ git diff
 $ git status
-$ git commit -a -m 'done'
+$ git commit -a -m 'message of success'
 $ git remote add files https://github.com/sandeep-synthesis/Repository.git
 $ git push files master
 $ git remote add ad https://github.com/sandeep-synthesis/Repository.git
